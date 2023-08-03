@@ -4,6 +4,7 @@ body {
     /* background-repeat: no-repeat; */
     /* background-position:center; */
     background-attachment: fixed;
+    margin-top: 3rem;
 }
 
 h1, h2 {
@@ -19,7 +20,7 @@ h3 {
     justify-content: center;
     font-size: xx-large;
     font-weight: bold;
-    /* width: 50%; */
+    margin-top: 3rem;
 }
 
 .please-select p {
