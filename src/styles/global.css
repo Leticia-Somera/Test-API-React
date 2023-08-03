@@ -1,0 +1,28 @@
+body {
+    background-image: url('../resources/composicion-flat-lay-comida-mejicana-copyspace.jpg');
+    background-size:cover; 
+    /* background-repeat: no-repeat; */
+    /* background-position:center; */
+    background-attachment: fixed;
+}
+
+h1, h2 {
+    color: #FAB10D;
+}
+
+h3 {
+    color: white;
+}
+
+.please-select {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bold;
+    /* width: 50%; */
+}
+
+.please-select p {
+    color: white;
+    width: 45%;
+}
